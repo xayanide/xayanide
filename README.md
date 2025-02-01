@@ -1,5 +1,6 @@
 <hr>
-Haia ! If you’d like me to provide feedback on your work, feel free to reach out via e-mail (xayanide@gmail.com) :>. Please be informed that I do manual authenticity checks on both the e-mail I receive and the sender. If either fails verification and becomes suspicious, I won’t respond and will treat the e-mail as spam.
+Haia ! If you’d like me to provide feedback on your work, feel free to reach out via e-mail (<a href="mailto:xayanide&#64;gmail.com">xayanide@gmail.com</a>) :>.
+Please be informed that I do manual authenticity checks on both the e-mail I receive and the sender. If either fails verification and becomes suspicious, I won’t respond and will treat the e-mail as spam.
 
 ### Other Contact Methods
 
