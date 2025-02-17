@@ -1,5 +1,5 @@
 <hr>
-Haia ! If you’d like a casual user to provide test or feedback on your work, feel free to reach out to me via e-mail (<a href="mailto:xayanide&#64;gmail.com">xayanide@gmail.com</a>) :>.
+Haia ! If you’d like a casual user to provide manual test or feedback on your work, feel free to reach out to me via e-mail (<a href="mailto:xayanide&#64;gmail.com">xayanide@gmail.com</a>) :>.
 Please be informed that I do manual authenticity checks on both the e-mail I receive and the sender. If either fails verification and becomes suspicious, I won’t respond and will treat the e-mail as spam.
 
 ### Other Contact Methods
