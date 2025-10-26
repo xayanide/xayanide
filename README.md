@@ -4,7 +4,7 @@ Please be informed that I do manual authenticity checks on both the e-mail I rec
 
 ### Other Contact Methods
 
-- Discord: [xayanide](https://discord.com/users/250934589621665793) (User ID: `250934589621665793`)
+- https://discord.com/users/250934589621665793
 
 <hr />
 <a id="mynickname-cert" class="text-center" href="https://mynickname.com/xayanide">
