@@ -14,7 +14,7 @@ Simply invoking a sense of helplessness.
 - Second least used language for me. If I barely have anything to do with a language, then I do not consider myself able to write well with it offline.
 
 ### JS: JavaScript (Favorite)
-My programming hurdle in here is recalling methods and object properties that I do not use frequently, including what parameters a method accepts and what parameters and values it returns. Without fine familiarzation, documentation or internet lookup, they're hard. 
+My programming hurdle in here is recalling objects' methods and properties that I do not use frequently, including what parameters a method accepts and what parameters and values it returns. Without fine familiarzation, documentation or internet lookup, they're hard. 
 Everything else of the basic fundamentals are fine as long as I keep using them when writing offline.
 
 ### CSS: Cascading Style Sheets
